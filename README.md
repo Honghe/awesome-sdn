@@ -58,7 +58,7 @@ An awesome list about Software Defined Networks (SDN)
 - [LINC-Switch](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 - [Open vSwitch](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [PISCES](https://www.cs.princeton.edu/~jrex/papers/pisces16.pdf) - A Programmable, Protocol-Independent Software Switch.
-- [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
+- [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack. [Rush](https://github.com/eugeneia/rush) Rust port.
 - [ZeroTier](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 
 # Network Virtualization
